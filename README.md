@@ -1,5 +1,5 @@
 # Sponsors
-The place to answer questions to our sponsors! 💼
+The place to discuss with our sponsors! 💼
 
 ## Enterprise
 Our private projects are free for our sponsors, let us know the commercial project you want to access:
