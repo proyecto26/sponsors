@@ -7,7 +7,7 @@ The place to discuss with our sponsors! 💼
 - [Ko-fi](https://ko-fi.com/proyecto26)
 - [Donorbox](https://donorbox.org/proyecto-26)
 - [GitHub Sponsors](https://github.com/sponsors/proyecto26)
-- [Liberapay](https://liberapay.com/jdnichollsc)
+- [Liberapay](https://liberapay.com/proyecto26)
 - [PayPal](https://www.paypal.com/paypalme/jdnichollsc)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/jdnichollsc)
 
