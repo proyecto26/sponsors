@@ -11,11 +11,9 @@ The place to discuss with our sponsors! 💼
 - [PayPal](https://www.paypal.com/paypalme/jdnichollsc)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/jdnichollsc)
 
-Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT**, **DOGE**:
+Donate **Ethereum**, **ADA**, **BNB**, **SHIBA**, **USDT/USDC**, **DOGE**, etc:
 
-![Wallet address](https://user-images.githubusercontent.com/2154886/123501719-84bf1900-d60c-11eb-882c-98a499cea323.png)
-
-> Wallet address: 0x3F9fA8021B43ACe578C2352861Cf335449F33427
+> Wallet address: jdnichollsc.eth
 
 Please let us know your contributions! 🙏
 
